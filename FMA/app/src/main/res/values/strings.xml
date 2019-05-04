@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Personal Digital Wallet</string>
+
+    <string name="school">School</string>
+    <string name="id">Id</string>
+    <string name="aadhar">Aadhar</string>
+    <string name="marksheets">Marksheets</string>
+    <string name="PhotoandSign">Photo and Sign</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="Certificate">Certificate</string>
+    <string name="Other">Other</string>
+</resources>
